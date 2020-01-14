@@ -1,0 +1,5 @@
+-Dcatalina.home=D:\github\open-source-code\apache-tomcat
+-Dcatalina.base=D:\github\open-source-code\apache-tomcat
+-Djava.io.tmpdir=D:\github\open-source-code\apache-tomcat\temp
+-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+-Djava.util.logging.config.file=D:\github\open-source-code\apache-tomcat\conf\logging.properties
